@@ -1,0 +1,2 @@
+../Core/Console/Console.c:24:6:Console_Init	16	static
+../Core/Console/Console.c:39:6:printConsole	16	static
