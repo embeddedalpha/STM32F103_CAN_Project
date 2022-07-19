@@ -1,7 +1,7 @@
 # CAN Project Template for STM32F103
 ---
 
-<h3>
+<h4>
 
 Before using the project, kindly go through the CAN driver. The project is 
 created using STM32CubeIDE so that it can be further customized. The console
@@ -46,4 +46,4 @@ If you have any any issues with the implementation, working, or any other issues
 
 Happy Coding !!
 
-</h3>
+</h4>
